@@ -1,2 +1,2 @@
 hello-world
-juhaoming/sustechpoints
+juhaoming/sustechpoints:v1.0.0
