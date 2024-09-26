@@ -2,3 +2,4 @@ hello-world
 juhaoming/sustechpoints:v1.0.0
 nvidia/cuda:11.3.1-cudnn8-runtime-ubuntu18.04
 mrsempress/visual:101
+hviktortsoi/ubuntu2004_cuda_ros:latest
